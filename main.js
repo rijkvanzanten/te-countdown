@@ -33,3 +33,4 @@ function renderRemaining() {
 function zeroFormat(num) {
   return String(num).padStart(2, "0");
 }
+
